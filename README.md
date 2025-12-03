@@ -1,0 +1,2 @@
+# CSE332-Compiler-Design-Lab--EasyLang-Programming-Language-Compiler--group-project
+**EasyLang Compiler:** A simple educational compiler built with Flex/Bison. Implements lexical, syntax, and semantic analysis for a minimal language featuring variables, I/O, conditionals, and loops. Demonstrates complete compilation pipeline with symbol table management, type checking, and error handling—perfect for learning compiler fundamentals.
