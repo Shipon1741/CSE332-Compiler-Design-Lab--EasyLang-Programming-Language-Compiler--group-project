@@ -1,0 +1,16 @@
+// Simple EasyLang test program
+var name = "Shipon"
+var age = 2
+var x=age*2+4
+var y=x+3
+
+print("x")
+print("y")
+if (age > 10) {
+    print "children"
+}
+
+var count = 3
+repeat count {
+    print "Counting: ", count
+}
